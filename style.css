@@ -1,0 +1,39 @@
+.main{
+   
+    display: flex;
+    width: 75%;
+    justify-content: space-evenly;
+    margin: 20px;
+    
+   
+}
+
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    
+}
+/* 
+.one{
+
+    width: 200px;
+    height: 150px;
+    background-color: saddlebrown;
+}
+
+.ali{
+    background-color: brown !important;
+}
+
+.btn{
+    padding: 20px !important;
+    margin: 20px;
+}
+
+.iqbal{
+    height: 400px !important;
+}
+
+.main */
